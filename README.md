@@ -1,0 +1,2 @@
+# HealthClubMembership
+This program demonstrates how to properly display a menu and prompt the user for their input. In this example, the menu gives options for a health club membership and asks the user to make a selection. The program then asks for the number of months that the membership will last. Finally, it calculates the cost of the membership based on the type of membership and the number of months the membership will last.
